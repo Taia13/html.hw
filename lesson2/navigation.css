@@ -1,0 +1,28 @@
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    border-bottom: 1px solid black;
+}
+
+.menu a {
+    background: lightgray;
+    display: block;
+    border-top: 1px solid black;
+    text-decoration: none;
+    height: 30px;
+    line-height: 30px;
+}
+
+.color {
+    width: 800px;
+    height: 150px;
+    padding: 5px 3px 4px 5px;
+    background: #b9ecec;
+}
+.target {
+    border:5px saddlebrown;
+
+}
+
