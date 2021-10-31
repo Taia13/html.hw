@@ -1,0 +1,25 @@
+.wrap{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    height: 900px;
+    background: silver;
+}
+.w100{
+    width: 100%;
+}
+.h300{
+    height: 300px;
+}
+.bg{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    background: lightblue;
+}
+.w30{
+    width: 33.33%;
+}
+.bg2{
+    background: blue;
+}
